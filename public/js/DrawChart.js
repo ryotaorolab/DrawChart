@@ -26,8 +26,8 @@ function Main() {
         {
           label: "data1",
           data: dataArray,
-          borderWidth: 2,    // 線の太さ
-          borderColor: "rgba(0, 100, 0, 0.5)",    // 線の色
+          borderWidth: 6,    // 線の太さ
+          borderColor: "rgba(0, 200, 0, 0.5)",    // 線の色
           fill: false   // 線の下の領域塗り潰しなし
         }
       ]
